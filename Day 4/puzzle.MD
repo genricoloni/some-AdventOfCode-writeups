@@ -6,11 +6,17 @@ However, as some of the Elves compare their section assignments with each other,
 For example, consider the following list of section assignment pairs:
 
 2-4,6-8
+
 2-3,4-5
+
 5-7,7-9
+
 2-8,3-7
+
 6-6,4-6
+
 2-6,4-8
+
 For the first few pairs, this list means:
 
 Within the first pair of Elves, the first Elf was assigned sections 2-4 (sections 2, 3, and 4), while the second Elf was assigned sections 6-8 (sections 6, 7, 8).
